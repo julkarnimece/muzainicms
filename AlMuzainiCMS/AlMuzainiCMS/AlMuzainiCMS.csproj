@@ -24,4 +24,9 @@
     <ProjectReference Include="..\AlMuzainiCMS.DataBaseContext\AlMuzainiCMS.DataBaseContext.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\assets\libs\" />
+    <Folder Include="wwwroot\assets\extra-libs\" />
+  </ItemGroup>
+
 </Project>

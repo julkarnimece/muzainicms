@@ -1,0 +1,79 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "bootstrap@5.3.1",
+      "destination": "wwwroot/assets/libs/bootstrap/"
+    },
+    {
+      "library": "chartist@0.11.4",
+      "destination": "wwwroot/assets/libs/chartist/"
+    },
+    {
+      "library": "chartist-plugin-tooltip@0.0.11",
+      "destination": "wwwroot/assets/libs/chartist-plugin-tooltip/"
+    },
+    {
+      "library": "fullcalendar@6.1.8",
+      "destination": "wwwroot/assets/libs/fullcalendar/"
+    },
+    {
+      "library": "jquery@3.7.0",
+      "destination": "wwwroot/assets/libs/jquery/"
+    },
+    {
+      "library": "moment.js@2.29.4",
+      "destination": "wwwroot/assets/libs/moment.js/"
+    },
+    {
+      "library": "morris.js@0.5.1",
+      "destination": "wwwroot/assets/libs/morris.js/"
+    },
+    {
+      "library": "perfect-scrollbar@1.5.5",
+      "destination": "wwwroot/assets/libs/perfect-scrollbar/"
+    },
+    {
+      "library": "popper.js@2.11.8",
+      "destination": "wwwroot/assets/libs/popper.js/"
+    },
+    {
+      "library": "raphael@2.3.0",
+      "destination": "wwwroot/assets/libs/raphael/"
+    },
+    {
+      "library": "c3@0.7.20",
+      "destination": "wwwroot/assets/extra-libs/c3/"
+    },
+    {
+      "library": "d3@7.8.5",
+      "destination": "wwwroot/assets/extra-libs/d3/"
+    },
+    {
+      "library": "datatables.net@2.1.1",
+      "destination": "wwwroot/assets/extra-libs/datatables.net/"
+    },
+    {
+      "library": "datatables.net-bs4@3.2.2",
+      "destination": "wwwroot/assets/extra-libs/datatables.net-bs4/"
+    },
+    {
+      "library": "jvectormap@2.0.5",
+      "destination": "wwwroot/assets/extra-libs/jvectormap/"
+    },
+    {
+      "library": "jQuery-Knob@1.2.13",
+      "destination": "wwwroot/assets/extra-libs/knob/"
+    },
+    {
+      "library": "prism@9000.0.1",
+      "destination": "wwwroot/assets/extra-libs/prism/"
+    },
+    {
+      "provider": "jsdelivr",
+      "library": "sparkline.js@0.0.2",
+      "destination": "wwwroot/assets/extra-libs/sparkline.js/"
+    }
+  ]
+}
